@@ -58,3 +58,11 @@ Feel free to open issues or feature requests!
 
 This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 Commercial use is not permitted.
+
+---
+
+## ☕ Support
+
+If you found this tool helpful, you can support me on Ko-fi:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/smithvr)
