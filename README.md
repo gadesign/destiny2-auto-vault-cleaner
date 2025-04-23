@@ -12,12 +12,6 @@ An intelligent and fully automated tool that helps Destiny 2 players clean up th
 - Easy integration with curated god roll lists
 - Click automation support for quick scanning
 
-## 🖼️ Preview
-
-Here’s a debug view showing perk detection:
-
-![OCR Debug Preview](assets/debug_ocr_view.png)
-
 ## 🚀 Getting Started
 
 ### Requirements
@@ -37,7 +31,7 @@ pip install -r requirements.txt
 ### Run
 
 ```bash
-python clean_vault.py
+python src/clean_vault.py
 ```
 
 ## 🧠 How It Works
@@ -45,6 +39,12 @@ python clean_vault.py
 1. Scans vault using screen click positions
 2. Reads perks and compares them against god roll definitions
 3. Dismantles weak/duplicate weapons and saves patterns
+
+## 🖼️ Preview
+
+Here’s a debug view showing perk detection:
+
+![OCR Debug Preview](assets/debug_ocr_view.png)
 
 ## 🛡️ Disclaimer
 
