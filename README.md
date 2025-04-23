@@ -11,7 +11,6 @@ See it in action:
 
 ![Vault Cleaner Demo](assets/demo.gif)
 
-
 ## ⚙️ Features
 
 - Supports S/A/B-tier roll filtering
@@ -46,12 +45,6 @@ python src/clean_vault.py
 1. Scans vault using screen click positions
 2. Reads perks and compares them against god roll definitions
 3. Dismantles weak/duplicate weapons and saves patterns
-
-## 🖼️ Preview
-
-Here’s a debug view showing perk detection:
-
-![OCR Debug Preview](assets/debug_ocr_view.png)
 
 ## 🛡️ Disclaimer
 
