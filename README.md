@@ -12,6 +12,12 @@ An intelligent and fully automated tool that helps Destiny 2 players clean up th
 - Easy integration with curated god roll lists
 - Click automation support for quick scanning
 
+## 🖼️ Preview
+
+Here’s a debug view showing perk detection:
+
+![OCR Debug Preview](assets/debug_ocr_view.png)
+
 ## 🚀 Getting Started
 
 ### Requirements
