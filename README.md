@@ -5,6 +5,13 @@ An intelligent and fully automated tool that helps Destiny 2 players clean up th
 - 🧠 Preserving god rolls and meta-tier gear
 - 🧪 Extracting patterns and dismantling redundant items
 
+## 🎥 Demo
+
+See it in action:
+
+![Vault Cleaner Demo](assets/demo.gif)
+
+
 ## ⚙️ Features
 
 - Supports S/A/B-tier roll filtering
