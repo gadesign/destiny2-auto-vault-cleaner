@@ -1,0 +1,5 @@
+requests
+pyautogui
+pillow
+opencv-python
+pytesseract
