@@ -59,6 +59,8 @@ Feel free to open issues or feature requests!
 This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 Commercial use is not permitted.
 
+📺 **Streaming Policy**: Streamers and content creators are welcome to use and showcase this tool in videos and streams — as long as it’s not sold, repackaged, or used for commercial reselling.
+
 ---
 
 ## ☕ Support
